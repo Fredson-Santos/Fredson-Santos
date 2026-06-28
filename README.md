@@ -49,15 +49,48 @@
 
 ### 📂 Projetos em Destaque
 
-#### 🏛️ [OpenPNCP – Observatório de Licitações Públicas](https://github.com/Fredson-Santos/OpenPCNP)
-Plataforma open-source desenvolvida para ingestão, análise e monitoramento inteligente de licitações públicas integradas ao Portal Nacional de Contratações Públicas (PNCP) do governo federal.
-- **Funcionalidades:** Pipeline de ETL automatizado, busca avançada (Full-Text Search), dashboard responsivo e detecção de anomalias/auditoria de compliance.
-- **Stack:** `Python`, `FastAPI`, `React`, `PostgreSQL/SQLite` e `Docker`.
-
-#### 🍔 [Sistema-PDV-Lanche – Gestão para Varejo Alimentício](https://github.com/Fredson-Santos/sistema-pdv-lanche)
-Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
-- **Funcionalidades:** Controle de vendas, gestão de estoque, controle de acesso de usuários e armazenamento seguro de dados.
-- **Stack:** `Python`, `FastAPI`, `React` e `PostgreSQL`.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🏛️ OpenPNCP – Observatório de Licitações Públicas</h3>
+      <p>Plataforma open-source desenvolvida para ingestão, análise e monitoramento inteligente de licitações públicas integradas ao Portal Nacional de Contratações Públicas (PNCP) do governo federal.</p>
+      <ul>
+        <li><strong>Funcionalidades:</strong> Pipeline de ETL automatizado, busca avançada (Full-Text Search), dashboard responsivo e detecção de anomalias/auditoria de compliance.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://github.com/Fredson-Santos/OpenPCNP" target="_blank">
+        <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🍔 Sistema-PDV-Lanche – Gestão para Varejo Alimentício</h3>
+      <p>Sistema de gestão comercial completo para pequenos comércios e lanchonetes.</p>
+      <ul>
+        <li><strong>Funcionalidades:</strong> Controle de vendas, gestão de estoque, controle de acesso de usuários e armazenamento seguro de dados.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/Fredson-Santos/sistema-pdv-lanche" target="_blank" style="margin-right: 5px;">
+        <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+      <a href="https://lanche.conekta.tech" target="_blank">
+        <img src="https://img.shields.io/badge/Demonstração-Live%20Demo-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
