@@ -1,17 +1,20 @@
-# Olá, eu sou o Fredson! 👋
+<!-- Banner -->
+<img src="banner.png" alt="Logo" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=false&vCenter=true&width=1000&lines=Fredson+Silva+dos+Santos;Olá!+Seja+bem-vindo(a)+:%29" alt="Typing SVG">
+</a>
 
-### 🚀 Sobre Mim
+<!-- Informações com emojis alinhadas à esquerda -->
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>📍 São Paulo, SP</li>
+    <li>🎓 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas - UNIP</li>
+    <li>🌱 Estudando e aprimorando conhecimentos em desenvolvimento <strong>Backend, Dados, n8n e Automação</strong></li>
+  </ul>
+</div>
 
-Olá! Sou o **Fredson Silva dos Santos**, estudante de **Análise e Desenvolvimento de Sistemas** na UNIP (Universidade Paulista).
-
-Sou apaixonado por tecnologia, dados e desenvolvimento de software.
-
-- 📍 São Paulo, SP
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Estudando e aprimorando conhecimentos em desenvolvimento Backend, dados, n8n e automação.
-
----
+<hr>
 
 ### 🛠️ Habilidades e Tecnologias
 
@@ -63,24 +66,21 @@ Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fredson-Santos&show_icons=true&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub de Fredson" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-Santos&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Fredson-Santos&theme=radial&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak de Fredson" height="150" />
-</p>
+<!-- GitHub Stats -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fredson-Santos&show_icons=true&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub de Fredson" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-Santos&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredson-Santos&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Gráfico de Atividade do GitHub" width="100%" />
-</p>
+<!-- GitHub Streak & Activity -->
+<div align="center" style="margin-top: 15px;">
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Fredson-Santos&theme=radial&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak de Fredson" />
+  <img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Fredson-Santos&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Gráfico de Atividade" />
+</div>
 
----
-
-### 📬 Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fredsonsantos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsonf219@gmail.com)
-
----
-<p align="center">
-  Desenvolvido com 💙 por Fredson Santos
-</p>
+<!-- Snake Animation -->
+<div align="center" style="margin: 20px 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake.svg" />
