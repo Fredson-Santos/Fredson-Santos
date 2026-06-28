@@ -10,7 +10,7 @@
   <ul>
     <li>📍 São Paulo, SP</li>
     <li>🎓 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas - UNIP</li>
-    <li>🌱 Estudando e aprimorando conhecimentos em desenvolvimento <strong>Backend e Dados</strong></li>
+    <li>🌱 Estudando e aprimorando conhecimentos em desenvolvimento <strong>Backend, Dados, n8n e Automação</strong></li>
   </ul>
 </div>
 
@@ -68,8 +68,8 @@ Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
 
 <!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fredson-Santos&show_icons=true&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub de Fredson" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-Santos&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Fredson-Santos&show_icons=true&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub de Fredson" /> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fredson-Santos&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
 </div>
 
 <!-- GitHub Streak & Activity -->
@@ -84,3 +84,17 @@ Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 📬 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fredsonsantos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsonf219@gmail.com)
+
+---
+<p align="center">
+  Desenvolvido com 💙 por Fredson Santos
+</p>
