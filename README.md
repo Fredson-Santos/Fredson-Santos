@@ -10,7 +10,7 @@
   <ul>
     <li>📍 São Paulo, SP</li>
     <li>🎓 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas - UNIP</li>
-    <li>🌱 Estudando e aprimorando conhecimentos em desenvolvimento <strong>Backend, Dados, n8n e Automação</strong></li>
+    <li>🌱 Estudando e aprimorando conhecimentos em desenvolvimento <strong>Backend e Dados</strong></li>
   </ul>
 </div>
 
