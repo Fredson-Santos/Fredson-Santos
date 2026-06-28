@@ -72,21 +72,6 @@ Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
   <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fredson-Santos&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
 </div>
 
-<!-- GitHub Streak & Activity -->
-<div align="center" style="margin-top: 15px;">
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Fredson-Santos&theme=radial&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak de Fredson" />
-  <img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Fredson-Santos&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Gráfico de Atividade" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center" style="margin: 20px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Fredson-Santos/Fredson-Santos/output/github-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 ### 📬 Vamos nos conectar!
