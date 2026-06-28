@@ -2,7 +2,7 @@
 <img src="banner.png" alt="Logo" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=false&vCenter=true&width=1000&lines=Fredson+Silva+dos+Santos;Olá!+Seja+bem-vindo(a)+:%29" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=false&vCenter=true&width=1000&lines=Fredson+Silva+dos+Santos;Hello+World!+:%29" alt="Typing SVG">
 </a>
 
 <!-- Informações com emojis alinhadas à esquerda -->
@@ -80,6 +80,3 @@ Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsonf219@gmail.com)
 
 ---
-<p align="center">
-  Desenvolvido com 💙 por Fredson Santos
-</p>
