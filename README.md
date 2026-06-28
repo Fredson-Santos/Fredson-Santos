@@ -3,14 +3,13 @@
 
 ### 🚀 Sobre Mim
 
-Olá! Sou o **Fredson Silva dos Santos**, estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas** na UNIP (Universidade Paulista) e Assistente Administrativo na **CAIXA Econômica Federal**.
+Olá! Sou o **Fredson Silva dos Santos**, estudante de **Análise e Desenvolvimento de Sistemas** na UNIP (Universidade Paulista).
 
-Sou apaixonado por tecnologia, dados e desenvolvimento de software. Tenho um perfil analítico e busco constantemente aprimorar minhas habilidades práticas resolvendo problemas reais através do código.
+Sou apaixonado por tecnologia, dados e desenvolvimento de software.
 
 - 📍 São Paulo, SP
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (UNIP)
-- 💼 Assistente Administrativo na CAIXA Econômica Federal
-- 🌱 Estudando e aprimorando conhecimentos em desenvolvimento Backend, Ingestão de Dados e Bancos de Dados.
+- 🌱 Estudando e aprimorando conhecimentos em desenvolvimento Backend, dados, n8n e automação.
 
 ---
 
@@ -39,8 +38,9 @@ Sou apaixonado por tecnologia, dados e desenvolvimento de software. Tenho um per
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </td>
     <td valign="top" width="50%">
-      <h4>🌐 Outros</h4>
+      <h4>🌐 Outros & Automação</h4>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
     </td>
   </tr>
 </table>
@@ -66,6 +66,11 @@ Sistema de gestão comercial completo para pequenos comércios e lanchonetes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fredson-Santos&show_icons=true&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub de Fredson" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-Santos&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Fredson-Santos&theme=radial&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak de Fredson" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredson-Santos&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Gráfico de Atividade do GitHub" width="100%" />
 </p>
 
 ---
