@@ -86,7 +86,7 @@
         <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
       <a href="https://lanche.conekta.tech" target="_blank">
-        <img src="https://img.shields.io/badge/Demonstração-Live%20Demo-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/Acessar-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
       </a>
     </td>
   </tr>
