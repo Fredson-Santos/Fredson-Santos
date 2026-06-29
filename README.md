@@ -65,9 +65,9 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <div style="margin-top: 15px;">
-        <a href="https://github.com/Fredson-Santos/OpenPCNP" target="_blank" style="text-decoration: none;">🔗 <strong>Repositório GitHub</strong></a>
+        <a href="https://github.com/Fredson-Santos/OpenPCNP" target="_blank" rel="noopener noreferrer">🔗 <strong>Repositório GitHub</strong></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://openpncp.conekta.tech/" target="_blank" style="text-decoration: none;">🚀 <strong>Acessar Projeto</strong></a>
+        <a href="https://openpncp.conekta.tech/" target="_blank" rel="noopener noreferrer">🚀 <strong>Acessar Projeto</strong></a>
       </div>
     </td>
   </tr>
@@ -85,9 +85,9 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <div style="margin-top: 15px;">
-        <a href="https://github.com/Fredson-Santos/sistema-pdv-lanche" target="_blank" style="text-decoration: none;">🔗 <strong>Repositório GitHub</strong></a>
+        <a href="https://github.com/Fredson-Santos/sistema-pdv-lanche" target="_blank" rel="noopener noreferrer">🔗 <strong>Repositório GitHub</strong></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://lanche.conekta.tech" target="_blank" style="text-decoration: none;">🚀 <strong>Acessar Projeto</strong></a>
+        <a href="https://lanche.conekta.tech" target="_blank" rel="noopener noreferrer">🚀 <strong>Acessar Projeto</strong></a>
       </div>
     </td>
   </tr>
