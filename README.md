@@ -64,8 +64,11 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
-      <a href="https://github.com/Fredson-Santos/OpenPCNP" target="_blank">
+      <a href="https://github.com/Fredson-Santos/OpenPCNP" target="_blank" style="margin-right: 5px;">
         <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+      <a href="https://openpncp.conekta.tech/" target="_blank">
+        <img src="https://img.shields.io/badge/Demonstração-Live%20Demo-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
       </a>
     </td>
   </tr>
@@ -86,7 +89,7 @@
         <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
       <a href="https://lanche.conekta.tech" target="_blank">
-        <img src="https://img.shields.io/badge/Acessar-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/Demonstração-Live%20Demo-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
       </a>
     </td>
   </tr>
