@@ -73,17 +73,16 @@ Sou desenvolvedor focado em **backend, dados e automação**. Gosto de transform
       <a href="https://estagio.io">🚀 Acessar</a> &nbsp;·&nbsp; <a href="https://github.com/Fredson-Santos/estagio.io-readme">🔗 Repositório</a>
     </td>
     <td valign="top" width="50%">
-      <h3>🏛️ <a href="https://github.com/Fredson-Santos/OpenPNCP">OpenPNCP</a></h3>
-      <p>Observatório de licitações públicas integrado ao Portal Nacional de Contratações Públicas (PNCP) do governo federal.</p>
-      <p>Pipeline de ETL automatizado, busca full-text, dashboard responsivo e detecção de anomalias planejada com IA.</p>
+      <h3>🧭 <a href="https://github.com/Fredson-Santos/open-browser-agent">OBA — Open Browser Agent</a></h3>
+      <p>Extensão de navegador (MV3) + host local em Go que deixam qualquer agente MCP (Claude Code, Cursor, Gemini CLI...) controlar o navegador do usuário.</p>
+      <p>Cada agente ganha seu próprio grupo de abas, com cliques e teclado via CDP, leitura da página, console, rede, gravação em GIF e mascaramento de senhas e cartões.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
       </p>
-      <a href="https://openpncp.conekta.tech/">🚀 Acessar</a> &nbsp;·&nbsp; <a href="https://github.com/Fredson-Santos/OpenPNCP">🔗 Repositório</a>
+      <a href="https://github.com/Fredson-Santos/open-browser-agent">🔗 Repositório</a>
     </td>
   </tr>
   <tr>
@@ -112,18 +111,7 @@ Sou desenvolvedor focado em **backend, dados e automação**. Gosto de transform
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h3>🍔 <a href="https://github.com/Fredson-Santos/sistema-pdv-lanche">Sistema PDV Lanche</a></h3>
-      <p>MVP de gestão para lanchonetes e pequenos comércios: PDV, controle de estoque, controle de acesso de usuários e conformidade com a LGPD.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <a href="https://lanche.conekta.tech">🚀 Acessar</a> &nbsp;·&nbsp; <a href="https://github.com/Fredson-Santos/sistema-pdv-lanche">🔗 Repositório</a>
-    </td>
-    <td valign="top" width="50%">
+    <td valign="top" colspan="2">
       <h3>🧩 <a href="https://github.com/Fredson-Santos/image2skill">Image2Skill</a></h3>
       <p>Skill para agentes de IA (Claude Code, Cursor, Antigravity) que transforma screenshots, mockups e sites ao vivo em Design Systems completos, com extração exata de cores, contraste WCAG e validação visual automática.</p>
       <p>
